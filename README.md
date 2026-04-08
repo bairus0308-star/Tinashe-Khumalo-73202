@@ -1,1 +1,3 @@
-# Tinashe-Khumalo-73202
+# GitHub Cloud Lab
+
+Simple learning project.
